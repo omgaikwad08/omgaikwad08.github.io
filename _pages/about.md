@@ -9,7 +9,9 @@ profile:
   image: om.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Robotics Systems Engineer</p>
     <p>San Francisco Bay Area</p>
+    
     
 
 news: true # includes a list of news items
