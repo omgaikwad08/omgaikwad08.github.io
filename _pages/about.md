@@ -7,7 +7,7 @@ subtitle: Passionate Roboticist with an avid interest in Autonomy and Robotics S
 profile:
   align: right
   image: om.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Robotics Systems Engineer</p>
     <p>San Francisco Bay Area</p>
@@ -19,6 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! Appreciate taking time to view my portfolio.
+Hello! Thank you for taking the time to view my portfolio.
 
 I am currently working full-time as a Robotics Systems Engineer at <a href = "https://celltrio.com/"> Celltrio </a> in Fremont, CA. 
