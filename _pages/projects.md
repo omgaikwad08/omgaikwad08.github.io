@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Discover my range of robotics projects, blending immersive hands-on work with dynamic simulation models.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Motion Planning, State Estimation, Hands-on Projects, Deep Learning]
 horizontal: false
 ---
 
