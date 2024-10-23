@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\about.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\about.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_config.yml||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_config.yml||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +32,22 @@
               "RelativeDocumentMoniker": "_pages\\about.md",
               "ToolTip": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\about.md",
               "RelativeToolTip": "_pages\\about.md",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-10-20T06:28:06.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_config.yml",
+              "DocumentMoniker": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_config.yml",
+              "RelativeDocumentMoniker": "_config.yml",
+              "ToolTip": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_config.yml",
+              "RelativeToolTip": "_config.yml",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-10-20T06:28:07.078Z",
               "EditorCaption": ""
             }
           ]
