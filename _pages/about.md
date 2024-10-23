@@ -21,4 +21,4 @@ social: true # includes social icons at the bottom of the page
 
 Hello! Thank you for taking the time to view my portfolio.
 
-I am currently working full-time as a Robotics Systems Engineer at <a href = "https://celltrio.com/"> Celltrio </a> in Fremont, CA. 
+I am currently working full-time as a Robotics Systems Engineer at <a href = "https://celltrio.com/"> Celltrio </a> in Fremont, CA. My job focuses on enhancing the reliability of Robotic Systems by developing State Machine based automated testing scripts and debug HW/SW problems to enahnce overally functionality.
