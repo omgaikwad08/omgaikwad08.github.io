@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: RRT/RRT* and Informed RRT* Motion Planning
+description: Implementation of RRT based planning algorithms.
+img: assets/img/2.jpg
+github: https://github.com/omgaikwad08/RRT-and-Informed-RRT-star-algorithm-Implementation
 importance: 2
-category: work
+category: Motion Planning
 giscus_comments: true
 ---
 

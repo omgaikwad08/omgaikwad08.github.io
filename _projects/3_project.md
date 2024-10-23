@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Grasping Assuming Symmetry
+description:Use a depth camera to capture real-time 3D representations of the environment, focusing on object symmetries to optimize grasping points.
+img: assets/img/3.png
+github: https://github.com/omgaikwad08/Grasping-Assuming-Symmetry
 importance: 3
-category: work
+category: Motion Planning
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Search Algorithms: Probablistic Roadmap (PRM)
+description: Implementation of PRM Algorithm using Random, Uniform, Gaussian, and Bridge-sampling methods.
+img: assets/img/1.png
+github: https://github.com/omgaikwad08/Probablisitic-Roadmap-PRM-Algorithm-Implementation
 importance: 1
-category: work
+category: Motion Planning
 related_publications: true
 ---
 
