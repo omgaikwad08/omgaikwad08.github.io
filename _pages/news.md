@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Experience
-permalink: /Experience/
+title: news
+permalink: /news/
 ---
 
-{% include Experience.liquid %}
+{% include news.liquid %}
