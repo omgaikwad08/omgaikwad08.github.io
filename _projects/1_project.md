@@ -1,9 +1,9 @@
 ---
 layout: page
-title: RRT/RRT* and Informed RRT* Motion Planning
-description: Implementation of RRT based planning algorithms.
-img: assets/img/2.jpg
-github: https://github.com/omgaikwad08/RRT-and-Informed-RRT-star-algorithm-Implementation
+title: Search Algorithms: Probablistic Roadmap Algorithm (PRM)
+description: Implementing Probablisitc Roadmap Algorithm using Random, Uniform, Gaussian, and Bridge-sampling methods.
+img: assets/img/1.png
+github: https://github.com/omgaikwad08/Probablisitic-Roadmap-PRM-Algorithm-Implementation
 importance: 2
 category: Motion Planning
 giscus_comments: true
