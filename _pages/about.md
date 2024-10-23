@@ -22,3 +22,5 @@ social: true # includes social icons at the bottom of the page
 Hello! Thank you for taking the time to view my portfolio.
 
 I am currently working full-time as a Robotics Systems Engineer at <a href = "https://celltrio.com/"> Celltrio </a> in Fremont, CA. My job focuses on enhancing the reliability of Robotic Systems by developing State Machine based automated testing scripts and debug HW/SW problems to enahnce overally functionality.
+
+I have completed my Masters in Robotics Engineering from the <a href = "https://www.wpi.edu/academics/departments/robotics-engineering"> Worcester Polytechnic Institute </a>. I have had the opportunity to purse courses in Motion Planning, Deep Learning, Advanced Robot Navigation & Robot Control further I did my research in Depth Image Enhancement where I worked on developing Image Enhancement algorithms to enhance Robotic Grasping at the  <a href = "https://wp.wpi.edu/merlab/"> MER Lab> </a>.
