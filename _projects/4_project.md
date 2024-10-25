@@ -1,10 +1,12 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Extended Kalman & Partical Filters.
+description: Drone Trajectory Tracking using Extended Kalman & Partical Filter approach. 
+img: assets/img/2.jpg
+github: https://github.com/omgaikwad08/Kalman-Filter-based-Drone-Track
+importance: 1
+category: State Estimation
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
