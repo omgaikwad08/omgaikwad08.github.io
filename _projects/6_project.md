@@ -4,7 +4,7 @@ title: Control Design of Quadcopter for UAV catch and return
 description: Designed a LQR based controller using Quadcopter dynamics to gauard a restricted airspace in simulation and catch an UAV once entered.
 img: assets/img/6.jpg
 github:https://github.com/omgaikwad08/Control-Design-of-Quadcopter-for-UAV-catch-and-return-
-importance: 3
+importance: 1
 category: State Estimation
 giscus_comments: true
 ---
