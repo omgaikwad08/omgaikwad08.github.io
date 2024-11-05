@@ -1,10 +1,12 @@
 ---
 layout: page
 title: UKF-based-Quadcopter-Localization
-description: A Uncenscted Kalman Filter (UKF) based approach 
-img: assets/img/1.jpg
-importance: 3
-category: fun
+description: A Uncenscted Kalman Filter (UKF) based approach for Quadcopter Localization.
+img: assets/img/5.png
+github: https://github.com/omgaikwad08/UKF-based-Quadcopter-Localization
+importance: 2
+category: State Estimation
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
