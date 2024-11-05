@@ -1,10 +1,12 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Control Design of Quadcopter for UAV catch and return
+description: Designed a LQR based controller using Quadcopter dynamics to gauard a restricted airspace in simulation and catch an UAV once entered.
+img: assets/img/6.jpg
+github:https://github.com/omgaikwad08/Control-Design-of-Quadcopter-for-UAV-catch-and-return-
+importance: 3
+category: State Estimation
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
