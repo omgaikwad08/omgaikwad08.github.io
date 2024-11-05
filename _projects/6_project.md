@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Control Design of Quadcopter for UAV catch and return
-description: Designed a LQR based controller using Quadcopter dynamics to gauard a restricted airspace in simulation and catch an UAV once entered.
-img: assets/img/6.jpg
-github:https://github.com/omgaikwad08/Control-Design-of-Quadcopter-for-UAV-catch-and-return-
-importance: 1
+title: Extended Kalman & Partical Filters.
+description: Drone Trajectory Tracking using Extended Kalman & Partical Filter approach. 
+img: assets/img/4.jpg
+github: https://github.com/omgaikwad08/Kalman-Filter-based-Drone-Track
+importance: 9
 category: State Estimation
 giscus_comments: true
 ---
