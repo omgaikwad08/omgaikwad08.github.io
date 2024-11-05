@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Search Algorithms: Probablistic Roadmap Algorithm (PRM)
-description: Implementing Probablisitc Roadmap Algorithm using Random, Uniform, Gaussian, and Bridge-sampling methods.
-img: assets/img/1.png
-github: https://github.com/omgaikwad08/Probablisitic-Roadmap-PRM-Algorithm-Implementation
-importance: 6
+title: Grasping Assuming Symmetery
+description: Used a depth camera to capture real-time 3D representations of the environment, focusing on object symmetries to optimize grasping points. 
+img: assets/img/3.png
+github: https://github.com/omgaikwad08/Grasping-Assuming-Symmetry
+importance: 2
 category: Motion Planning
 giscus_comments: true
 ---

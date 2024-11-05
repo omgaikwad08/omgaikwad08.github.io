@@ -2,8 +2,8 @@
 layout: page
 title: Extended Kalman & Partical Filters.
 description: Drone Trajectory Tracking using Extended Kalman & Partical Filter approach. 
-img: assets/img/4.jpg
-github: https://github.com/omgaikwad08/Kalman-Filter-based-Drone-Track
+img: assets/img/6.jpg
+github: https://github.com/omgaikwad08/Control-Design-of-Quadcopter-for-UAV-catch-and-return-
 importance: 9
 category: State Estimation
 giscus_comments: true
