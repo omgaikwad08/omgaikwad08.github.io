@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Grasping Assuming Symmetery
-description: Used a depth camera to capture real-time 3D representations of the environment, focusing on object symmetries to optimize grasping points. 
+title: PRM based Motion Planning
+description: Implemented Probablisitc Roadmap Algorithm using Random, Uniform, Gaussian, and Bridge-sampling methods. 
 img: assets/img/1.png
-github: https://github.com/omgaikwad08/Grasping-Assuming-Symmetry
+github: https://github.com/omgaikwad08/Probablisitic-Roadmap-PRM-Algorithm-Implementation
 importance: 2
 category: Motion Planning
 giscus_comments: true
