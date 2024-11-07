@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_projects\\4_project.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\projects.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\projects.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_projects\\2_project.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_projects\\2_project.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_projects\\3_project.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_projects\\3_project.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_projects\\1_project.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_projects\\1_project.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_projects\\3_project.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_projects\\3_project.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_projects\\2_project.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_projects\\2_project.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\projects.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\projects.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "projects.md",
               "DocumentMoniker": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\projects.md",
               "RelativeDocumentMoniker": "_pages\\projects.md",
@@ -59,12 +59,11 @@
               "RelativeToolTip": "_pages\\projects.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-10-23T06:21:29.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T06:21:29.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "3_project.md",
               "DocumentMoniker": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_projects\\3_project.md",
               "RelativeDocumentMoniker": "_projects\\3_project.md",
@@ -76,29 +75,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "2_project.md",
               "DocumentMoniker": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_projects\\2_project.md",
               "RelativeDocumentMoniker": "_projects\\2_project.md",
               "ToolTip": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_projects\\2_project.md",
               "RelativeToolTip": "_projects\\2_project.md",
-              "ViewState": "AgIAADgAAAAAAAAAAAAYwEMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-10-23T06:13:12.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T06:13:12.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "1_project.md",
               "DocumentMoniker": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_projects\\1_project.md",
               "RelativeDocumentMoniker": "_projects\\1_project.md",
               "ToolTip": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_projects\\1_project.md",
               "RelativeToolTip": "_projects\\1_project.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-10-23T05:54:38.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T05:54:38.153Z"
             }
           ]
         }
