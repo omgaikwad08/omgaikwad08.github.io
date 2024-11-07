@@ -2,7 +2,7 @@
 layout: page
 title: RRT/RRT* and Informed RRT* Motion Planning
 description: Implementation of RRT based planning algorithms.
-img: assets/img/2.jpg
+img: assets/img/1.jpg
 github: https://github.com/omgaikwad08/RRT-and-Informed-RRT-star-algorithm-Implementation
 importance: 4
 category: Motion Planning

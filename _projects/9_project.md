@@ -1,10 +1,12 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
-importance: 4
-category: fun
+title: Low-Cost LiDAR scanner for Indoor Mapping
+description: a prototype of an inexpensive and more flexible design of a 3-Dimensional (3D) LiDAR scanner with the use of a singlepoint ranging LiDAR sensor is presented. The design consists of an electromechanical setup, an optical sensor and a microcontroller for data acquisition (TF-Luna Range Sensor and Arduino Module).
+img: assets/img/lidar.jpeg
+github: https://ijiset.com/vol8/v8s12/IJISET_V8_I12_06.pdf
+importance: 5
+category: Hands-on Projects
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

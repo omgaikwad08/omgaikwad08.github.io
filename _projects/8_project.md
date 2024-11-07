@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
-importance: 2
-category: work
+title: Automated Serial Evaporator
+description: Enhanced batch process efficiency by 3 hours per chemist per day by developing an Automated Serial Evaporator 
+img: assets/img/ase.png
+github: https://www.linkedin.com/in/om-vinayak-gaikwad-b06a4a1a4/overlay/1709054832000/single-media-viewer/?profileId=ACoAAC_aRbYBvALUhp7L2HHVMZ0iNiKesxLoLG0
+importance: 3
+category: Hands-on Projects
 giscus_comments: true
 ---
 
