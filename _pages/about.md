@@ -2,25 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: Passionate Roboticist with an avid interest in Autonomy and Robotics Software Development
+subtitle: Robotics Software Engineer • You have the right to work, but never to the fruits of work ✅•
 
 profile:
   align: right
-  image: om.jpg
-  image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Robotics Systems Engineer</p>
-    <p>San Francisco Bay Area</p>
-    
-    
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+Hello there!
 
-Hello! Thank you for taking the time to view my portfolio.
+I’m a Master’s student Master's student @ the <a href="https://www.wpi.edu/academics/departments/robotics-engineering">Robotics Engineering Department</a>, <a href="https://wpi.edu">Worcester Polytechnic Institue (WPI)</a>, 
+driven by a passion for crafting software that enables robots to see, sense, and navigate their worlds. 
+Robotics isn’t just my field—it’s my fascination.
 
-I am currently working full-time as a Robotics Systems Engineer at <a href = "https://celltrio.com/"> Celltrio </a> in Fremont, CA. My job focuses on enhancing the reliability of Robotic Systems by developing State Machine based automated testing scripts and debug HW/SW problems to enahnce overally functionality.
+My journey spans across hardware and software, equipping me with a unique, well-rounded perspective. Currently, I’m interning at [Celltrio](https://celltrio.com/), with previous stints at [National Robotics Engineering Center](https://www.nrec.ri.cmu.edu/) (Summer ’24) 
+and Technodune (Summer ’22–’23). While my heart lies in software, I also believe that diving into the hardware side is vital for a complete engineering outlook. These experiences have taught me to thrive in fast-paced environments, j
+uggle multiple roles, and collaborate with teams from all walks of life.
 
-I have completed my Masters in Robotics Engineering from the <a href = "https://www.wpi.edu/academics/departments/robotics-engineering"> Worcester Polytechnic Institute </a>. I have had the opportunity to purse courses in Motion Planning, Deep Learning, Advanced Robot Navigation & Robot Control further I did my research in Depth Image Enhancement where I worked on developing Image Enhancement algorithms to enhance Robotic Grasping at the  <a href = "https://wp.wpi.edu/merlab/" > MER Lab </a>.
+Curious about my professional journey? Check out my `LinkedIn` for more! Outside of robotics, I recharge through books on life, work, spirituality, and philosophy.
+Excited to connect for opportunities, insights, or a good `robotics` chat!
