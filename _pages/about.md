@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Passionate Roboticist with an avid interest in Autonomy and Robotics Software Development
+subtitle: \U0001F680 Passionate Roboticist | Autonomy & Robotics Software Enthusiast
 
 profile:
   align: right
@@ -19,7 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! Thank you for taking the time to view my portfolio.
+**Welcome to my Portfolio!**
+Thank you for stopping by and exploring my journey in robotics.
 
 I am currently working full-time as a Robotics Systems Engineer at <a href = "https://celltrio.com/"> Celltrio </a> in Fremont, CA. My job focuses on enhancing the reliability of Robotic Systems by developing State Machine based automated testing scripts and debug HW/SW problems to enahnce overally functionality.
 
