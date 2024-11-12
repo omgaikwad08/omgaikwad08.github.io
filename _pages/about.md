@@ -6,7 +6,7 @@ subtitle: Robotics Software Engineer • You have the right to work, but never t
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: om.jpg
   image_circular: false # crops the image to make it circular
 
 news: true # includes a list of news items
