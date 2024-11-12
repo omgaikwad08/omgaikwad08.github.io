@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Passionate Roboticist | Autonomy & Robotics Software Entusiast
+subtitle: Passionate Roboticist Autonomy & Robotics Software Entusiast
 
 profile:
   align: right
