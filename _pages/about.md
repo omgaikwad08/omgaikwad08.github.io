@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Robotics Software Engineer • You have the right to work, but never to the fruits of work ✅•
+subtitle: 🚀 Passionate Roboticist | Autonomy & Robotics Software Enthusiast•
 
 profile:
   align: right
@@ -13,15 +13,21 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hello there! 👋🏻
+`Welcome to my Portfolio`! 👋🏻
 
-🚀 I’m a Master’s student student @ the <a href="https://www.wpi.edu/academics/departments/robotics-engineering">Robotics Engineering Department</a>, <a href="https://wpi.edu">Worcester Polytechnic Institue (WPI)</a>, 
-driven by a passion for crafting software that enables robots to see, sense, and navigate their worlds. 
+Thank you for stopping by to explore my journey in robotics.
+ 
+I'm presently working full-time as Robotics Systems Engineer at <a href="https://celltrio.com/">`Celltrio Inc.`</a>. My role focuses on developing automated State-Machine based test scripts to evaluate reliability of Robotic Systems, which invovles diagnosing HW/SW issues creating test reports and performing modular tests.
 
-👩🏻‍💻 My journey spans across hardware and software, equipping me with a unique, well-rounded perspective. Currently, I’m interning at [Celltrio](https://celltrio.com/), with previous stints at [National Robotics Engineering Center](https://www.nrec.ri.cmu.edu/) (Summer ’24) 
-and Technodune (Summer ’22–’23). I'm passionate about software but recognize the importance of hardware for a well-rounded engineering perspective. These experiences have taught me to excel in fast-paced settings, adapt to multiple roles, and collaborate with diverse teams.
+## 🎓 Educational Background
+I hold a Master's Degree in Robotics Engineering from <a href="https://www.wpi.edu/academics/departments/robotics-engineering">`Worcester Polytechnic Institute.`</a> where I had the opportunity to dive deep in to core robotics concepts and develop hands-on projects in the following fields:
+- 📍 Motion Planning
+- 📐 State Estimatation 
+- 🧠 Deep Learning
+- 🤖 Advanced Robot Navigation
+- 🕹️ Robot Control
 
-🔇 Outside of robotics, I recharge through books on life, work, spirituality, and philosophy.
+## 💡 Research Spotlight
+At WPI's <a href="https://wp.wpi.edu/merlab/">`MER Lab`</a> I conducted research in <a href="https://www.linkedin.com/in/om-vinayak-gaikwad-b06a4a1a4/overlay/experience/2339573014/multiple-media-viewer/?profileId=ACoAAC_aRbYBvALUhp7L2HHVMZ0iNiKesxLoLG0&treasuryMediaId=1708129364396">`Depth Image Enhancement`</a>, developing algorithms to improve robotic grasping accuracy—a critical advancement in real-world robotic applications!
 
-🔭 Curious about my professional journey? Check out my `LinkedIn` for more! 
-Excited to connect for opportunities, insights, or a good `robotics` chat!
+Feel free to explore my <a href="https://omgaikwad08.github.io/projects/">`Projects`</a> , experiences, and passion for robotics here. <a href="https://www.linkedin.com/in/om-vinayak-gaikwad-b06a4a1a4/">`Let's connect!`</a> 🌐
