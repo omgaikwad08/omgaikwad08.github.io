@@ -2,22 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: Passionate Roboticist Autonomy & Robotics Software Entusiast
+subtitle: Robotics Software Engineer • You have the right to work, but never to the fruits of work ✅•
 
 profile:
   align: right
-  image: om.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-`Welcome to my Portfolio!`
+Hello there! 👋🏻
 
-Thank you for stopping by to explore my journey in robotics.
+🚀 I’m a Master’s student student @ the <a href="https://www.wpi.edu/academics/departments/robotics-engineering">Robotics Engineering Department</a>, <a href="https://wpi.edu">Worcester Polytechnic Institue (WPI)</a>, 
+driven by a passion for crafting software that enables robots to see, sense, and navigate their worlds. 
 
-I�m currently working full-time as a Robotics Systems Engineer at <a href="https://celltrio.com/">`Celltrio`</a> based in Fremont, CA. My role centers on elevating the reliability of robotic systems by developing automated testing scripts with state machines, diagnosing HW/SW issues, and enhancing overall system functionality.
+👩🏻‍💻 My journey spans across hardware and software, equipping me with a unique, well-rounded perspective. Currently, I’m interning at [Celltrio](https://celltrio.com/), with previous stints at [National Robotics Engineering Center](https://www.nrec.ri.cmu.edu/) (Summer ’24) 
+and Technodune (Summer ’22–’23). I'm passionate about software but recognize the importance of hardware for a well-rounded engineering perspective. These experiences have taught me to excel in fast-paced settings, adapt to multiple roles, and collaborate with diverse teams.
 
+🔇 Outside of robotics, I recharge through books on life, work, spirituality, and philosophy.
 
-I hold a `Master's in Robotics Engineering` from <a href="https://www.wpi.edu/academics/departments/robotics-engineering">`Worcester Polytechnic Institute (WPI)`</a>. During my studies, I focused on:
+🔭 Curious about my professional journey? Check out my `LinkedIn` for more! 
+Excited to connect for opportunities, insights, or a good `robotics` chat!
