@@ -21,7 +21,7 @@ I’m **Om**, a dedicated **Robotics Systems Engineer** currently working full-tim
 
 
 I hold a **Master's in Robotics Engineering** from **Worcester Polytechnic Institute** (WPI). During my studies, I focused on: 
-- **Motion Planning** 
-- **Deep Learning** 
-- **Advanced Robot Navigation** 
-- **Robot Control** 
+**Motion Planning** 
+**Deep Learning** 
+**Advanced Robot Navigation** 
+**Robot Control** 
