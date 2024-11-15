@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\about_einstein.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\about_einstein.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_config.yml||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_config.yml||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\blog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\blog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\cv.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\cv.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\dropdown.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\dropdown.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\profiles.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\profiles.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\news.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\news.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_bibliography\\papers.bib||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_bibliography\\papers.bib||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\publications.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\publications.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\repositories.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\repositories.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\teaching.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\teaching.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\about.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\about.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,103 +38,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "profiles.md",
-              "DocumentMoniker": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\profiles.md",
-              "RelativeDocumentMoniker": "_pages\\profiles.md",
-              "ToolTip": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\profiles.md",
-              "RelativeToolTip": "_pages\\profiles.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "cv.md",
+              "DocumentMoniker": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\cv.md",
+              "RelativeDocumentMoniker": "_pages\\cv.md",
+              "ToolTip": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\cv.md",
+              "RelativeToolTip": "_pages\\cv.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-11-07T07:42:40.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T07:24:51.756Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "dropdown.md",
-              "DocumentMoniker": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\dropdown.md",
-              "RelativeDocumentMoniker": "_pages\\dropdown.md",
-              "ToolTip": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\dropdown.md",
-              "RelativeToolTip": "_pages\\dropdown.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-11-07T07:42:36.553Z",
-              "EditorCaption": ""
+              "Title": "papers.bib",
+              "DocumentMoniker": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_bibliography\\papers.bib",
+              "RelativeDocumentMoniker": "_bibliography\\papers.bib",
+              "ToolTip": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_bibliography\\papers.bib",
+              "RelativeToolTip": "_bibliography\\papers.bib",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-12T07:21:46.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "blog.md",
-              "DocumentMoniker": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\blog.md",
-              "RelativeDocumentMoniker": "_pages\\blog.md",
-              "ToolTip": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\blog.md",
-              "RelativeToolTip": "_pages\\blog.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-11-07T07:42:33.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "about_einstein.md",
-              "DocumentMoniker": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\about_einstein.md",
-              "RelativeDocumentMoniker": "_pages\\about_einstein.md",
-              "ToolTip": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\about_einstein.md",
-              "RelativeToolTip": "_pages\\about_einstein.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-11-07T07:42:23.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "news.md",
-              "DocumentMoniker": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\news.md",
-              "RelativeDocumentMoniker": "_pages\\news.md",
-              "ToolTip": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\news.md",
-              "RelativeToolTip": "_pages\\news.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-11-07T07:42:17.76Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "publications.md",
               "DocumentMoniker": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\publications.md",
               "RelativeDocumentMoniker": "_pages\\publications.md",
               "ToolTip": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\publications.md",
               "RelativeToolTip": "_pages\\publications.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-11-07T07:42:03.899Z"
+              "WhenOpened": "2024-11-12T07:18:02.538Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "teaching.md",
-              "DocumentMoniker": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\teaching.md",
-              "RelativeDocumentMoniker": "_pages\\teaching.md",
-              "ToolTip": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\teaching.md",
-              "RelativeToolTip": "_pages\\teaching.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "about.md",
+              "DocumentMoniker": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\about.md",
+              "RelativeDocumentMoniker": "_pages\\about.md",
+              "ToolTip": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\about.md",
+              "RelativeToolTip": "_pages\\about.md",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwCAAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-11-07T07:41:54.576Z"
+              "WhenOpened": "2024-11-11T18:40:15.699Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "repositories.md",
-              "DocumentMoniker": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\repositories.md",
-              "RelativeDocumentMoniker": "_pages\\repositories.md",
-              "ToolTip": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_pages\\repositories.md",
-              "RelativeToolTip": "_pages\\repositories.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-11-07T07:41:47.033Z"
+              "DocumentIndex": 0,
+              "Title": "_config.yml",
+              "DocumentMoniker": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_config.yml",
+              "RelativeDocumentMoniker": "_config.yml",
+              "ToolTip": "C:\\Users\\Om Gaikwad\\source\\repos\\omgaikwad08.github.io\\_config.yml",
+              "RelativeToolTip": "_config.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-11-11T18:39:21.435Z",
+              "EditorCaption": ""
             }
           ]
         }
