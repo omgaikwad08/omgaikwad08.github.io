@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Automated Serial Evaporator
-description: Enhanced batch process efficiency by 3 hours per chemist per day by developing an Automated Serial Evaporator 
+description: Development of an Automated Serial Evaporator for Enhanced Laboratory Efficiency at NIH/NCATS 
 img: assets/img/ase.png
 github: https://www.linkedin.com/in/om-vinayak-gaikwad-b06a4a1a4/overlay/1709054832000/single-media-viewer/?profileId=ACoAAC_aRbYBvALUhp7L2HHVMZ0iNiKesxLoLG0
 importance: 3
@@ -9,74 +9,41 @@ category: Hands-on Projects
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Collaborated with a team of six to design and implement an Automated Serial Evaporator, addressing a critical bottleneck in evaporation workflows at the National Institutes of Health/National Center for Advancing Translational Sciences (NIH/NCATS). This solution resulted in a significant productivity boost, saving approximately 3 hours per chemist per day.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Key Contributions:
+### Automation Integration with Robotics:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+- Integrated the MECA500 Robotic Arm to automate vial handling and evaporation processes.
+- Designed and implemented automation workflows, allowing seamless operation and enhanced throughput in laboratory workflows.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+### Computer Vision for Vial Detection:
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+- Deployed a camera-based system with edge-detection and segmentation algorithms to accurately identify and locate vials in real time.
+- Integrated a barcode scanner for vial identification, ensuring precise sample tracking and workflow traceability.
+
+### System Integration and CI Development:
+
+- Conducted system integration by interfacing robotic hardware, sensors, and software components using Continuous Integration (CI) tools to maintain code quality and system performance.
+- Implemented robust communication protocols between devices, enhancing reliability and operational safety.
+
+### User Interface Design:
+
+- Designed and developed an intuitive User Interface (UI) to streamline interaction with the automated system, enabling chemists to easily monitor and control the process.
+- Incorporated real-time status updates and customizable configurations to optimize user experience.
+
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ncats.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+ 
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Project Poster.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+### Impact:
+- Increased efficiency of evaporation workflows, allowing researchers to focus on higher-value tasks.
+- Demonstrated the potential of automation in reducing repetitive manual work, improving precision, and ensuring consistency in high-throughput laboratory settings.
+- Highlighted the practical application of robotics and computer vision in advancing scientific research.
