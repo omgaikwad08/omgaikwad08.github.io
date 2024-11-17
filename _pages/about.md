@@ -30,4 +30,4 @@ I hold a Master's Degree in Robotics Engineering from <a href="https://www.wpi.e
 ## 💡 Research Spotlight
 At WPI's <a href="https://wp.wpi.edu/merlab/">`MER Lab`</a> I conducted research in <a href="https://www.linkedin.com/in/om-vinayak-gaikwad-b06a4a1a4/overlay/experience/2339573014/multiple-media-viewer/?profileId=ACoAAC_aRbYBvALUhp7L2HHVMZ0iNiKesxLoLG0&treasuryMediaId=1708129364396">`Depth Image Enhancement`</a>, developing algorithms to improve robotic grasping accuracy—a critical advancement in real-world robotic applications!
 
-Feel free to explore my <a href="https://omgaikwad08.github.io/projects/">`Projects`</a> , experiences, and passion for robotics here. <a href="https://www.linkedin.com/in/om-vinayak-gaikwad-b06a4a1a4/">`Let's connect!`</a> 🌐
+Feel free to explore my <a href="https://omgaikwad08.github.io/projects/">`Projects`</a> , experiences, and passion for robotics here. <a href="https://www.linkedin.com/in/om-vinayak-gaikwad-b06a4a1a4/">`Let's connect!`</a> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-vinayak-gaikwad-b06a4a1a4/)
