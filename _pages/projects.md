@@ -5,7 +5,7 @@ permalink: /projects/
 description: Discover my range of robotics projects, blending immersive hands-on work with dynamic simulation models.
 nav: true
 nav_order: 3
-display_categories: [Motion Planning, State Estimation, Hands-on Projects, Deep Learning]
+display_categories: [Hands-on Projects, Motion Planning, State Estimation, Deep Learning]
 horizontal: false
 ---
 
