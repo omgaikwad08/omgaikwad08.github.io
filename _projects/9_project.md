@@ -9,74 +9,43 @@ category: Hands-on Projects
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Engineered a cost-effective LiDAR-based scanning system aimed at enhancing the affordability and accessibility of indoor mapping solutions. This project involved developing a custom hardware-software integration for 3D point cloud generation, focusing on precision, efficiency, and cost-effectiveness.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Key Contributions:
+### LiDAR Hardware Integration:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+- Selected and integrated a 2D LiDAR sensor with custom-built mechanical assemblies to enable continuous 360° scanning.
+- Designed a rotating platform driven by a stepper motor for controlled scanning, ensuring comprehensive coverage of indoor environments.
+### Data Acquisition and Processing:
+
+- Implemented a data acquisition pipeline using microcontrollers and interfaces to capture LiDAR distance measurements in real-time.
+- Developed algorithms to convert 2D LiDAR data into a 3D point cloud, enabling accurate spatial representation of indoor environments.
+### Cost Optimization:
+
+- Prioritized affordability by utilizing readily available components and efficient design practices, reducing the overall system cost compared to commercial alternatives.
+- Conducted a comparative analysis against existing solutions to validate the cost-performance trade-off.
+### System Calibration and Testing:
+
+- Calibrated the LiDAR scanner for optimal accuracy in distance measurement and angle estimation, achieving an error margin of less than 2% in controlled environments.
+- Conducted extensive testing in diverse indoor settings to ensure reliability and adaptability.
+### Software Development:
+
+- Developed a user-friendly interface to visualize the generated 3D point cloud data in real-time, aiding in navigation and analysis.
+- Integrated mapping outputs with open-source platforms for further processing and analysis.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/l1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/l2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/l3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+Impact:
+Provided an accessible solution for applications in robotics, indoor navigation, and environment mapping.
+Significantly lowered the barrier to entry for small-scale researchers and developers by reducing hardware costs.
+Demonstrated the potential of low-cost solutions for democratizing advanced technologies in spatial computing.
