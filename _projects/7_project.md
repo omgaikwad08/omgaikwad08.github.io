@@ -15,7 +15,7 @@ This project demonstrates the design and implementation of an Omni-Wheeled Auton
 ### Components Utilized:
 
 - Raspberry Pi 4B: Acts as the central processing unit for controlling navigation and decision-making.
-- 360° LiDAR Sensor: Facilitates environment scanning for mapping and obstacle detection, ensuring efficient path planning.
+- 360 degree LiDAR Sensor: Facilitates environment scanning for mapping and obstacle detection, ensuring efficient path planning.
 - Omni-Wheels: Provide multidirectional mobility, enabling the robot to maneuver smoothly in tight and dynamic warehouse environments.
 - Motor Drivers: Control wheel movement, translating navigation commands into precise actions.
 - Power System: A 2200mAh Li-ion battery ensures sustained operation, stabilized by power regulators for consistent performance.
