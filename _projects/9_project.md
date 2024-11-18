@@ -14,7 +14,7 @@ Engineered a cost-effective LiDAR-based scanning system aimed at enhancing the a
 ## Key Contributions:
 ### LiDAR Hardware Integration:
 
-- Selected and integrated a 2D LiDAR sensor with custom-built mechanical assemblies to enable continuous 360° scanning.
+- Selected and integrated a 2D LiDAR sensor with custom-built mechanical assemblies to enable continuous 360 degree scanning.
 - Designed a rotating platform driven by a stepper motor for controlled scanning, ensuring comprehensive coverage of indoor environments.
 ### Data Acquisition and Processing:
 
