@@ -17,21 +17,10 @@ The Probabilistic Roadmap (PRM) algorithm is a fundamental method in robotic pat
 - Learning Phase: Randomly samples the configuration space to generate nodes and attempts to connect these nodes with collision-free edges, forming a roadmap.
 - Query Phase: Utilizes the precomputed roadmap to find a path between the start and goal configurations using graph search algorithms like A*.
 
-### Advantages:
-
-- Probabilistic Completeness: Ensures that a path will be found if one exists, given sufficient sampling.
-- Efficiency in Complex Spaces: Particularly useful in environments with numerous obstacles, as it doesn't require an explicit representation of the free space.
-
-### Implementation Considerations:
-
-- Sampling Strategy: The quality of the roadmap depends on the sampling density and distribution.
-- Collision Detection: Efficient algorithms are necessary to verify that nodes and edges are within the free space.
-- Graph Search: Algorithms like A* or Dijkstra's are employed to find the shortest path on the constructed roadmap.
-
 <style>
     .uniform-img-size {
-        width: 250px; /* adjust width as necessary */
-        height: 150px; /* adjust height as necessary */
+        width: 450px; /* adjust width as necessary */
+        height: 250px; /* adjust height as necessary */
         object-fit: cover; /* ensures images cover the area without distorting aspect ratio */
     }
 </style>
@@ -53,3 +42,15 @@ The Probabilistic Roadmap (PRM) algorithm is a fundamental method in robotic pat
 <div class="caption">
    PRM algorithm implemented on Uniform, Random, Gaussian, and Bridge sampling.
 </div>
+
+### Advantages:
+
+- Probabilistic Completeness: Ensures that a path will be found if one exists, given sufficient sampling.
+- Efficiency in Complex Spaces: Particularly useful in environments with numerous obstacles, as it doesn't require an explicit representation of the free space.
+
+### Implementation Considerations:
+
+- Sampling Strategy: The quality of the roadmap depends on the sampling density and distribution.
+- Collision Detection: Efficient algorithms are necessary to verify that nodes and edges are within the free space.
+- Graph Search: Algorithms like A* or Dijkstra's are employed to find the shortest path on the constructed roadmap.
+

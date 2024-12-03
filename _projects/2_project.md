@@ -9,74 +9,44 @@ category: Motion Planning
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The Rapidly-Exploring Random Tree (RRT) and its enhanced versions, RRT* and Informed RRT*, are pivotal in robotic path planning, especially within complex, high-dimensional spaces. These algorithms facilitate the discovery of feasible and optimized paths for robots navigating through environments with obstacles.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Key Features and Contributions:
+### Rapidly-Exploring Random Tree (RRT):
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+- Purpose: Efficiently explores large, high-dimensional spaces to find feasible paths from a start to a goal position.
+- Methodology: Incrementally builds a tree by randomly sampling points in the space and connecting them to the nearest existing tree node, ensuring rapid exploration.
+- Application: Particularly useful in environments with complex constraints and obstacles, providing a probabilistically complete solution.
+
+### RRT-Star
+
+- Enhancement: Introduces an optimization process that rewires the tree during construction to find not just feasible but optimal paths.
+- Advantages: Maintains the rapid exploration characteristic of RRT while ensuring asymptotic optimality, meaning the solution improves over time.
+
+### Informed RRT-Star;
+
+- mprovement: Focuses the sampling process within an ellipsoidal subset of the space that contains the optimal path, enhancing efficiency.
+- Collision Detection: Efficient algorithms are necessary to verify that nodes and edges are within the free space.
+- Benefits: Accelerates convergence to the optimal path by reducing unnecessary exploration, making it suitable for high-dimensional problems.
+
+<style>
+    .uniform-img-size {
+        width: 450px; /* adjust width as necessary */
+        height: 250px; /* adjust height as necessary */
+        object-fit: cover; /* ensures images cover the area without distorting aspect ratio */
+    }
+</style>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/rr1.jpg" title="example image" class="img-fluid rounded z-depth-1 uniform-img-size" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/rr2.jpg" title="example image" class="img-fluid rounded z-depth-1 uniform-img-size" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+        {% include figure.liquid loading="eager" path="assets/img/rr3.jpg" title="example image" class="img-fluid rounded z-depth-1 uniform-img-size" %}
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+   Outputs of RRT, RRT-Star, and Informed RRT-Star
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
