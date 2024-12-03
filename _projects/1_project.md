@@ -28,18 +28,26 @@ The Probabilistic Roadmap (PRM) algorithm is a fundamental method in robotic pat
 - Collision Detection: Efficient algorithms are necessary to verify that nodes and edges are within the free space.
 - Graph Search: Algorithms like A* or Dijkstra's are employed to find the shortest path on the constructed roadmap.
 
+<style>
+    .uniform-img-size {
+        width: 250px; /* adjust width as necessary */
+        height: 150px; /* adjust height as necessary */
+        object-fit: cover; /* ensures images cover the area without distorting aspect ratio */
+    }
+</style>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pp1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pp1.jpg" title="example image" class="img-fluid rounded z-depth-1 uniform-img-size" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pp2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pp2.jpg" title="example image" class="img-fluid rounded z-depth-1 uniform-img-size" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pp3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pp3.jpg" title="example image" class="img-fluid rounded z-depth-1 uniform-img-size" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pp4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pp4.jpg" title="example image" class="img-fluid rounded z-depth-1 uniform-img-size" %}
     </div>
 </div>
 <div class="caption">
