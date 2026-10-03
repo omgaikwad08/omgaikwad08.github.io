@@ -6,7 +6,7 @@ img: assets/img/omni.gif
 github: https://github.com/omgaikwad08/Autonomous-Mobile-Robot-for-Warehouse-Industries
 importance: 5
 category: Hands-on Projects
-giscus_comments: true
+giscus_comments: false
 ---
 
 This project demonstrates the design and implementation of an Omni-Wheeled Autonomous Mobile Robot (AMR) tailored for automating repetitive and time-intensive warehouse operations. The solution integrates cutting-edge robotics, SLAM technologies, and efficient hardware to embody the principles of Industry 4.0.

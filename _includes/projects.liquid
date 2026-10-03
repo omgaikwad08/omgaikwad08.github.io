@@ -28,6 +28,13 @@
               {% endif %}
             </div>
           {% endif %}
+          {% if project.report %}
+            <div class="github-icon">
+              <div class="icon" data-toggle="tooltip" title="Project Report">
+                <a href="{{ project.report }}"><i class="fa-solid fa-book-open"></i></a>
+              </div>
+            </div>
+          {% endif %}
         </div>
       </div>
     </div>

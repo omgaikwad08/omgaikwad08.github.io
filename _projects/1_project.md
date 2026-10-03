@@ -6,7 +6,7 @@ img: assets/img/1.png
 github: https://github.com/omgaikwad08/Probablisitic-Roadmap-PRM-Algorithm-Implementation
 importance: 2
 category: Motion Planning
-giscus_comments: true
+giscus_comments: false
 ---
 
 The Probabilistic Roadmap (PRM) algorithm is a fundamental method in robotic path planning, particularly effective in high-dimensional configuration spaces. It constructs a network of feasible paths by randomly sampling points in the environment and connecting them to form a roadmap, which a robot can then use to navigate from a start to a goal position.
@@ -19,9 +19,9 @@ The Probabilistic Roadmap (PRM) algorithm is a fundamental method in robotic pat
 
 <style>
     .uniform-img-size {
-        width: 450px; /* adjust width as necessary */
-        height: 250px; /* adjust height as necessary */
-        object-fit: cover; /* ensures images cover the area without distorting aspect ratio */
+        width: 100%;
+        height: 220px;
+        object-fit: contain;
     }
 </style>
 

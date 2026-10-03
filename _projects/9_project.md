@@ -6,7 +6,7 @@ img: assets/img/lidar.jpeg
 github: https://ijiset.com/vol8/v8s12/IJISET_V8_I12_06.pdf
 importance: 5
 category: Hands-on Projects
-giscus_comments: true
+giscus_comments: false
 ---
 
 Engineered a cost-effective LiDAR-based scanning system aimed at enhancing the affordability and accessibility of indoor mapping solutions. This project involved developing a custom hardware-software integration for 3D point cloud generation, focusing on precision, efficiency, and cost-effectiveness.

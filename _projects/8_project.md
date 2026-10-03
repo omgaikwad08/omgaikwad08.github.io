@@ -3,10 +3,10 @@ layout: page
 title: Automated Serial Evaporator
 description: Development of an Automated Serial Evaporator for Enhanced Laboratory Efficiency at NIH/NCATS 
 img: assets/img/ase.png
-github: https://www.linkedin.com/in/om-vinayak-gaikwad-b06a4a1a4/overlay/1709054832000/single-media-viewer/?profileId=ACoAAC_aRbYBvALUhp7L2HHVMZ0iNiKesxLoLG0
+report: https://www.linkedin.com/in/om-vinayak-gaikwad-b06a4a1a4/overlay/1709054832000/single-media-viewer/?profileId=ACoAAC_aRbYBvALUhp7L2HHVMZ0iNiKesxLoLG0
 importance: 3
 category: Hands-on Projects
-giscus_comments: true
+giscus_comments: false
 ---
 
 Collaborated with a team of six to design and implement an Automated Serial Evaporator, addressing a critical bottleneck in evaporation workflows at the National Institutes of Health/National Center for Advancing Translational Sciences (NIH/NCATS). This solution resulted in a significant productivity boost, saving approximately 3 hours per chemist per day.
