@@ -46,3 +46,12 @@ The Particle Filter is a **Monte Carlo-based** approach that represents the prob
 
 ## Results
 Both filters were validated on simulated drone trajectory data, with the Particle Filter showing superior robustness during sharp turns and noisy conditions, while the EKF maintained lower computational overhead for smooth trajectories.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/resultPlots.png" title="EKF and Particle Filter Result Plots" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Trajectory tracking results comparing Extended Kalman Filter and Particle Filter performance.
+</div>

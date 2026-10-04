@@ -6,7 +6,7 @@ subtitle: 🚀 Passionate Roboticist | Autonomy & Robotics Software Enthusiast
 
 profile:
   align: right
-  image: om.jpg
+  image: om.jpeg
   image_circular: false # crops the image to make it circular
 
 news: true # includes a list of news items
